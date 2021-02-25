@@ -1,0 +1,15 @@
+body {
+    background-color: gray;
+}
+
+ul {
+    border: black solid 1px;
+}
+
+li {
+    border: black solid 1px;
+    display: inline;
+    background-color: honeydew;
+    margin: 5px;
+    padding: 5px;
+}
